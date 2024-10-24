@@ -16,6 +16,8 @@
     "mongodb": "^6.10.0",
     "mongoose": "^8.7.2",
     "path": "^0.12.7",
-    "studentconnect": "file:"
+    "socket.io": "^4.8.0",
+    "studentconnect": "file:",
+    "ws": "^8.18.0"
   }
 }
